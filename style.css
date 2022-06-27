@@ -14,6 +14,8 @@
 .jumbotron{
     padding-top: 5px;
     padding-bottom: 5px;
+    background-color: lightgreen;
+    color: black;
 }
 
 .navbar-inverse {
@@ -29,6 +31,8 @@
 .navbar-nav{
     color: white;
 }
+
+
 
 
 
